@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46129657-cdbe-41f8-87f2-02c1670c4632" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/document.json" beforeDir="false" afterPath="$PROJECT_DIR$/design/document.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584602425287</updated>
-      <workItem from="1584602427694" duration="1523000" />
+      <workItem from="1584602427694" duration="1769000" />
     </task>
     <task id="LOCAL-00001" summary="Added Marc Farssac's Frame to Workspace">
       <created>1584604422409</created>
@@ -78,7 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584605532617</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Sudoku board to Frame">
+      <created>1584605721921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584605721921</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed Frame position in the Workspace">
+      <created>1584605766665</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584605766665</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added keyboard to Frame">
+      <created>1584605811274</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584605811274</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,17 +120,24 @@
     <MESSAGE value="Added Android Kit to Project" />
     <MESSAGE value="Add Status bar to Marc Farssac's Frame" />
     <MESSAGE value="Added notification to Frame" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added notification to Frame" />
+    <MESSAGE value="Added Sudoku board to Frame" />
+    <MESSAGE value="Changed Frame position in the Workspace" />
+    <MESSAGE value="Added keyboard to Frame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added keyboard to Frame" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1539" y="-19" key="CommitChangelistDialog2" timestamp="1584605766295">
+    <state x="-1539" y="-19" key="CommitChangelistDialog2" timestamp="1584605810906">
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
-    <state x="-1539" y="-19" key="CommitChangelistDialog2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584605766295" />
+    <state x="-1539" y="-19" key="CommitChangelistDialog2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584605810906" />
     <state x="-1640" y="110" width="1240" height="536" key="DiffContextDialog" timestamp="1584604398050">
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
     <state x="-1640" y="110" width="1240" height="536" key="DiffContextDialog/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584604398050" />
+    <state x="-1267" y="229" key="Vcs.Push.Dialog.v2" timestamp="1584605822403">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1267" y="229" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584605822403" />
     <state x="-1358" y="119" key="VcsDiffUtil.ChangesDialog" timestamp="1584604394740">
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
@@ -119,5 +146,9 @@
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
     <state x="-1231" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584603110894" />
+    <state x="-1217" y="209" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584606369829">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1217" y="209" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584606369829" />
   </component>
 </project>
