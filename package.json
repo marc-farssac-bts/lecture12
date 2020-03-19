@@ -13,6 +13,8 @@
 	},
 	"author": "Marc Farssac",
 	"dependencies": {
-		"@framer/framer.base": "^1.0.0"
+		"@framer/framer.base": "^1.0.0",
+		"@framer/gavin-owens.lottie-animations": "^1.2.0",
+		"@framer/graz.android-kit": "^1.1.0"
 	}
 }
