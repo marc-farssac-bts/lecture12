@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84a11b47-7dcc-41a6-a859-15fca32cf712" name="Default Changelist" comment="Updated git Settings" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/document.json" beforeDir="false" afterPath="$PROJECT_DIR$/design/document.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +41,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584607599540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added TabletFrame to project">
+      <created>1584613156863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584613156863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated git Settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated git Settings" />
+    <MESSAGE value="Added TabletFrame to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added TabletFrame to project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1470" y="-26" width="1230" height="795" key="CommitChangelistDialog2" timestamp="1584607626614">
@@ -116,13 +120,21 @@
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
     <state width="928" height="290" key="GridCell.Tab.0.right/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584611672275" />
-    <state x="-1339" y="111" key="Vcs.Push.Dialog.v2" timestamp="1584607658678">
+    <state x="-1878" y="-157" width="1878" height="1057" key="MergeDialog" timestamp="1584613580949">
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
-    <state x="-1339" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584607658678" />
-    <state x="-1289" y="91" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584607785522">
+    <state x="-1878" y="-157" width="1878" height="1057" key="MergeDialog/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584613580949" />
+    <state x="-1226" y="94" key="MultipleFileMergeDialog" timestamp="1584613581017">
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
-    <state x="-1289" y="91" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584607785522" />
+    <state x="-1226" y="94" key="MultipleFileMergeDialog/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584613581017" />
+    <state x="-1339" y="111" key="Vcs.Push.Dialog.v2" timestamp="1584613665603">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1339" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584613665603" />
+    <state x="-1289" y="91" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584613697176">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1289" y="91" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584613697176" />
   </component>
 </project>
