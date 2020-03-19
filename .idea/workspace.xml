@@ -1,12 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a11b47-7dcc-41a6-a859-15fca32cf712" name="Default Changelist" comment="Updated git Settings">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Marc Farssac &lt;marc.farssac.bts@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="releasev0.1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZKzA0It0iFOuIi4XLuz3rjuwCb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Updated git Settings">
+      <created>1584607599540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584607599540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated git Settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated git Settings" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1470" y="-26" width="1230" height="795" key="CommitChangelistDialog2" timestamp="1584607626614">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1470" y="-26" width="1230" height="795" key="CommitChangelistDialog2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584607626614" />
+    <state x="-1339" y="111" key="Vcs.Push.Dialog.v2" timestamp="1584607658678">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1339" y="111" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584607658678" />
+    <state x="-1289" y="91" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584607785522">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1289" y="91" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584607785522" />
   </component>
 </project>
