@@ -11,5 +11,9 @@
 	"framer": {
 		"id": "121b312d-245b-4470-8597-ff1a95f499e3"
 	},
-	"author": "Marc Farssac"
+	"author": "Marc Farssac",
+	"dependencies": {
+		"@framer/gavin-owens.lottie-animations": "^1.2.0",
+		"@framer/graz.android-kit": "^1.1.0"
+	}
 }
