@@ -10,6 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Marc Farssac &lt;marc.farssac.bts@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -41,5 +46,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1458" y="-26" key="CommitChangelistDialog2" timestamp="1584606777777">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state x="-1458" y="-26" key="CommitChangelistDialog2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584606777777" />
   </component>
 </project>
