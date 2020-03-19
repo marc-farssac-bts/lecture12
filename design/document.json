@@ -1244,7 +1244,7 @@
         "isExternalMaster" : null,
         "isMaster" : false,
         "isTarget" : false,
-        "left" : 171,
+        "left" : 7,
         "locked" : false,
         "name" : "Marc Farssac Frame",
         "navigationTarget" : null,
@@ -1265,7 +1265,7 @@
         "replicaInfo" : null,
         "right" : null,
         "rotation" : 0,
-        "top" : 415,
+        "top" : 388,
         "visible" : true,
         "width" : 411,
         "widthType" : 0
