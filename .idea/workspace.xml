@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84a11b47-7dcc-41a6-a859-15fca32cf712" name="Default Changelist" comment="Updated git Settings">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="46129657-cdbe-41f8-87f2-02c1670c4632" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/document.json" beforeDir="false" afterPath="$PROJECT_DIR$/design/document.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +20,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="releasev0.1" />
+        <entry key="$PROJECT_DIR$" value="release0.2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,7 +79,9 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -97,6 +101,22 @@
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
     <state x="-1470" y="-26" width="1230" height="795" key="CommitChangelistDialog2/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584607626614" />
+    <state width="928" height="290" key="GridCell.Tab.0.bottom" timestamp="1584611672275">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state width="928" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584611672275" />
+    <state width="928" height="290" key="GridCell.Tab.0.center" timestamp="1584611672274">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state width="928" height="290" key="GridCell.Tab.0.center/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584611672274" />
+    <state width="928" height="290" key="GridCell.Tab.0.left" timestamp="1584611672273">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state width="928" height="290" key="GridCell.Tab.0.left/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584611672273" />
+    <state width="928" height="290" key="GridCell.Tab.0.right" timestamp="1584611672275">
+      <screen x="-1878" y="-157" width="1878" height="1057" />
+    </state>
+    <state width="928" height="290" key="GridCell.Tab.0.right/0.23.1440.877/-1878.-157.1878.1057@-1878.-157.1878.1057" timestamp="1584611672275" />
     <state x="-1339" y="111" key="Vcs.Push.Dialog.v2" timestamp="1584607658678">
       <screen x="-1878" y="-157" width="1878" height="1057" />
     </state>
