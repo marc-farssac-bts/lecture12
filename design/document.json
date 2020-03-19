@@ -1213,6 +1213,290 @@
             "visible" : true,
             "width" : 387,
             "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : null,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "blur" : 12,
+            "blurEnabled" : 0,
+            "blurType" : "layer",
+            "borderBottom" : 1,
+            "borderColor" : "#222",
+            "borderEnabled" : 0,
+            "borderLeft" : 1,
+            "borderPerSide" : false,
+            "borderRight" : 1,
+            "borderStyle" : "solid",
+            "borderTop" : 1,
+            "borderWidth" : 1,
+            "bottom" : null,
+            "boxShadows" : [
+              {
+                "__class" : "BoxShadow",
+                "blur" : 2,
+                "color" : "hsla(0, 0%, 0%, 0.24)",
+                "enabled" : true,
+                "inset" : false,
+                "spread" : 0,
+                "x" : 0,
+                "y" : 2
+              },
+              {
+                "__class" : "BoxShadow",
+                "blur" : 2,
+                "color" : "hsla(0, 0%, 0%, 0.12)",
+                "enabled" : true,
+                "inset" : false,
+                "spread" : 0,
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "__class" : "BoxShadow",
+                "blur" : 0,
+                "color" : "hsla(0, 0%, 100%, 0.8)",
+                "enabled" : true,
+                "inset" : true,
+                "spread" : 0,
+                "x" : 0,
+                "y" : 0.5
+              }
+            ],
+            "brightness" : 100,
+            "brightnessEnabled" : 0,
+            "centerAnchorX" : 0.5012165450121655,
+            "centerAnchorY" : 0.85766423357664234,
+            "children" : [
+
+            ],
+            "clip" : false,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : true,
+            "contrast" : 100,
+            "contrastEnabled" : 0,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(236, 239, 240, 1.00)",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillLinearGradient" : {
+              "__class" : "LinearGradient",
+              "alpha" : 1,
+              "angle" : 180,
+              "stops" : [
+                {
+                  "__class" : "GradientColorStop",
+                  "position" : 0,
+                  "value" : "rgba(0,0,0,0)"
+                },
+                {
+                  "__class" : "GradientColorStop",
+                  "position" : 1,
+                  "value" : "black"
+                }
+              ]
+            },
+            "fillType" : "color",
+            "grayscale" : 0,
+            "grayScaleEnabled" : 0,
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 234,
+            "heightType" : 0,
+            "hueRotate" : 0,
+            "hueRotateEnabled" : 0,
+            "id" : "lLifWKrWc",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "invert" : 0,
+            "invertEnabled" : 0,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : 0,
+            "locked" : false,
+            "name" : "keyboard",
+            "navigationTarget" : null,
+            "navigationTransition" : "push",
+            "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+            "navigationTransitionDirection" : "left",
+            "opacity" : 1,
+            "originalid" : "@framer\/graz.android-kit-b4dAHYplL",
+            "parentid" : "sk1vweMFm",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : {
+              "master" : "@framer\/graz.android-kit-b4dAHYplL",
+              "overrides" : {
+                "@framer\/graz.android-kit-b4dAHYplL" : {
+                  "bottom" : null,
+                  "centerAnchorX" : 0.5012165450121655,
+                  "centerAnchorY" : 0.85766423357664234,
+                  "height" : 234,
+                  "left" : 0,
+                  "right" : null,
+                  "top" : 588,
+                  "width" : 412
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-auHDgkOpS" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-cHQCE3atB" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-CkmxYyf31" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-dyND61MqC" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-e6_hThCgU" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-EJi26VmhW" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-enNwkHEoQ" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-eY6X61f8_" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-ezxBKs5my" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-fHNDFsnAv" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-FZZXD3Dzc" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-GF9Rzg5dJ" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-gv3KiCvWb" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-H8J7vt8Ul" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-HaJjfMX9i" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-HlA1EHTsp" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-KRW7UmCGt" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-LebMYcj5g" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-lI4Wuya0K" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-mCsvizIRI" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-Me5W1LlcB" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-midZslHLI" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-mv6tvKk9w" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-mYmMUVaHc" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-n2xLHzxg6" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-O3PIbeiej" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-otrSssTvM" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-pZVI51w4N" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-r38Vqm0d0" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-SJ0Xpmjde" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-SjUE4LvwH" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-t3yWzkfu0" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-TESmsTQup" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-Tfg7ngMBk" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-urGQHv4ay" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-uS_3p5Y_n" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-XGeYN_MS3" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-xSQAWPPg9" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-Yfj96ckYU" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-YK9QggkqO" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-YkmF9Q9C7" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-ZlEDwXMsq" : {
+
+                },
+                "@framer\/graz.android-kit-b4dAHYplL-ZQf4G9CLQ" : {
+
+                }
+              }
+            },
+            "right" : null,
+            "rotation" : 0,
+            "saturate" : 100,
+            "saturateEnabled" : 0,
+            "sepia" : 0,
+            "sepiaEnabled" : 0,
+            "top" : 588,
+            "visible" : true,
+            "width" : 412,
+            "widthType" : 0
           }
         ],
         "clip" : true,
